@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebDevelopment
+namespace WebDevelopment.Customers
 {
 
 
-    public partial class _Default
+    public partial class CustomersMain
     {
     }
 }

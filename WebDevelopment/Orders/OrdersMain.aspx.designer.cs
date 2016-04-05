@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebDevelopment
+namespace WebDevelopment.Orders
 {
 
 
-    public partial class Contact
+    public partial class OrdersMain
     {
     }
 }

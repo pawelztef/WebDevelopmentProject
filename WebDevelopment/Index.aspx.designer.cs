@@ -11,7 +11,7 @@ namespace WebDevelopment
 {
 
 
-    public partial class About
+    public partial class Index
     {
     }
 }
